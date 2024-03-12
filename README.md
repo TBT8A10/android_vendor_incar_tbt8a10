@@ -1,8 +1,10 @@
 ### Hardware & Blobs info
+* **SOC**: RK3368A with RK817-1
 * **LCD (Display)**: ShenZhen Strong Photoelectric SQ080B331M-I7401
     * Resolution: 800x1280
     * Seems like it has some relation with the TV080WXM-NL0 LCD, so both schematics may be similar
-* **WiFi & Bluetooth Chip**: Unisoc uwe5622
+* **Touchscreen**: MS1309-FPC v1.0XML
+* **WiFi & Bluetooth Chip**: Unisoc UWE5621DS
     * Firmware: /vendor/etc/firmware/wcnmodem.bin `W21.10.3`
 * **GPU**: PowerVR Rogue G6110 (BVNC 5.9.1.46)
     * All blobs come from the Rockchip vendor
