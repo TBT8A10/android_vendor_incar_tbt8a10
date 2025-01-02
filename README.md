@@ -24,7 +24,7 @@
             * memtrack.rk3368.so `UM Q 5.56`
             * vulkan.rk3368.so `Available on rockchip vendor but not on this vendor`
         * modules
-            * pvrsrvkm.ko `UM Q 5.58`
+            * pvrsrvkm.ko `UM Q 5.58` (not used, the GPU driver is in the kernel)
         * libGLESv2_POWERVR_ROGUE.so `Available on rockchip vendor but not on this vendor`
         * libIMGegl.so `UM Q 5.58`
         * libLLVMIMG.so `11/11/2016`
